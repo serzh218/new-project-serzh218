@@ -1,5 +1,68 @@
+
 {
-  "content": [],
+  "content": [
+    {
+      "type": "Header",
+      "props": {
+        "id": "header-main-1",
+        "logo": "TechHome",
+        "phone": "+7 (800) 123-45-67",
+        "cartCount": 3
+      }
+    },
+    {
+      "type": "Hero",
+      "props": {
+        "id": "hero-main-1",
+        "title": "Лучшая бытовая техника для вашего дома",
+        "subtitle": "Более 10 000 товаров от ведущих мировых брендов. Бесплатная доставка при заказе от 5 000 ₽",
+        "buttonText": "Смотреть каталог",
+        "discount": "До 30%"
+      }
+    },
+    {
+      "type": "Categories",
+      "props": {
+        "id": "categories-main-1",
+        "title": "Популярные категории"
+      }
+    },
+    {
+      "type": "Products",
+      "props": {
+        "id": "products-main-1",
+        "title": "Популярные товары",
+        "subtitle": "Лучшая техника по выгодным ценам"
+      }
+    },
+    {
+      "type": "Banner",
+      "props": {
+        "id": "banner-main-1",
+        "title": "Специальное предложение",
+        "subtitle": "Скидки до 40% на крупную бытовую технику",
+        "buttonText": "Подробнее",
+        "discount": "-40%"
+      }
+    },
+    {
+      "type": "Features",
+      "props": {
+        "id": "features-main-1",
+        "title": "Почему выбирают нас"
+      }
+    },
+    {
+      "type": "Footer",
+      "props": {
+        "id": "footer-main-1",
+        "companyName": "TechHome",
+        "phone": "+7 (800) 123-45-67",
+        "email": "info@techhome.ru",
+        "address": "Москва, ул. Примерная, д. 1"
+      }
+    }
+  ],
   "root": {},
   "zones": {}
 }
